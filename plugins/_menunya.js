@@ -15,7 +15,7 @@ let tags = {
   'anime': 'قسم لأنيم',
   'xp': 'قسم لإڪس بي',
   'fun': 'MENU FUN',
-  'game': 'MENU GAME',
+  'game': 'قسم لألعاب',
   'github': 'MENU GITHUB',
   'group': 'قسم الڪࢪوبات',
   'image': 'قسم الصور',
@@ -24,7 +24,7 @@ let tags = {
   'islam' : 'MENU ISLAMI',
   'kerang': 'MENU KERANG',
   'maker': 'MENU MAKER',
-  'owner': 'MENU OWNER',
+  'owner': 'قسم المطوࢪ',
   'Pengubah Suara': 'PENGUBAH SUARA',
   'premium': 'PREMIUM MENU',
   'quotes' : 'MENU QUOTES',
@@ -38,7 +38,7 @@ let tags = {
   'random': 'RANDOM MENU', 
   'textpro': 'TEXT PRO MENU', 
   'photooxy': 'PHOTO OXY MENU', 
-}   هاد لحبس ڪولو ديال سيدڪم لقمان😻
+}
 const defaultMenu = {
   before: `
   </>
