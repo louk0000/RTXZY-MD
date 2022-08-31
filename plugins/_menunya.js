@@ -38,7 +38,7 @@ let tags = {
   'random': 'RANDOM MENU', 
   'textpro': 'TEXT PRO MENU', 
   'photooxy': 'PHOTO OXY MENU', 
-}
+}   هاد لحبس ڪولو ديال سيدڪم لقمان😻
 const defaultMenu = {
   before: `
   </>
